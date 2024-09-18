@@ -111,7 +111,7 @@ components:
       additionalProperties: false
       properties:
         id:
-          type: string  
+          type: integer  
         type:
           type: string
         name:
