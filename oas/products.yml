@@ -110,8 +110,8 @@ components:
         - price
       additionalProperties: false
       properties:
-        id:
-          type: string 
+#        id:
+#          type: string 
         type:
           type: string
         name:
