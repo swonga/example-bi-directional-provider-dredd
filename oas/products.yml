@@ -11,7 +11,7 @@ paths:
   /products:
     post:
       summary: Create a product
-      description: Creates a new product
+      description: Creates a new products
       operationId: createProduct
       requestBody:
         description: Create a new Product
